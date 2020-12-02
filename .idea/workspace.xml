@@ -20,20 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f92410ff-addc-4ac5-b04b-b5bc137e3eea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week02/configs/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/global/setting.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/dao/dao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/dao/tag.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/model/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/model/tag.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/router/api/v1/tag.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/router/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/service/service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/internal/service/tag.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/pkg/setting/section.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week02/pkg/setting/setting.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +72,22 @@
       <recent name="$PROJECT_DIR$/Week02" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/Go-000/Week02" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go-000" />
+      <working_directory value="$PROJECT_DIR$/Week02" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Week02/main.go" />
+      <package value="github.com/Go-000/Week02" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/Go-000/Week02" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -108,6 +111,22 @@
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
     <state x="2303" y="420" key="EnvironmentVariablesDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606827675213" />
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom" timestamp="1606837493865">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606837493865" />
+    <state width="1878" height="296" key="GridCell.Tab.0.center" timestamp="1606837493862">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606837493862" />
+    <state width="1878" height="296" key="GridCell.Tab.0.left" timestamp="1606837493859">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606837493859" />
+    <state width="1878" height="296" key="GridCell.Tab.0.right" timestamp="1606837493863">
+      <screen x="1440" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="296" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1606837493863" />
     <state x="1909" y="190" key="SettingsEditor" timestamp="1606827760924">
       <screen x="1440" y="0" width="1920" height="1080" />
     </state>
